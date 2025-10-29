@@ -2,6 +2,9 @@
 
 Interactive A* pathfinding visualizer built with modern C++ and SFML. Paint obstacles, choose start and goal tiles, then watch the algorithm explore the grid and reveal the final path.
 
+![Uploading Screenshot 2025-10-29 at 3.46.07 AM.png…]()
+
+
 ## Prerequisties
 - CMake
 - A C++ compiler
